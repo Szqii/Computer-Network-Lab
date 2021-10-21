@@ -4,7 +4,7 @@
 | Week | Lab Subject  | Status  |
 |:-:|---|---|
 | 1 | **UNIX/Linux operating system basics** |[Cheat Sheet](/laboratories/lab1/Basic_Linux_commands_cheat_sheet.pdf)|
-| 2 | **Bash shell programming** | Waiting... |
+| 2 | **Bash shell programming** |[srm.sh](/laboratories/lab2/srm.sh)|
 | 3 | **Client/server programming** | Waiting... |
 | 4 | **Client/server programming applications** | Waiting... |
 | 5 | **Simple www server programming and configuration** | Waiting... |

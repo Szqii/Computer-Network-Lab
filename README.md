@@ -3,7 +3,7 @@
 
 | Week | Lab Subject  | Status  |
 |:-:|---|---|
-| 1 | **UNIX/Linux operating system basics** | Waiting... |
+| 1 | **UNIX/Linux operating system basics** |[Cheat Sheet](/laboratories/lab1/Basic_Linux_commands_cheat_sheet.pdf)|
 | 2 | **Bash shell programming** | Waiting... |
 | 3 | **Client/server programming** | Waiting... |
 | 4 | **Client/server programming applications** | Waiting... |
